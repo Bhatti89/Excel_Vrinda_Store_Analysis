@@ -61,7 +61,7 @@ To replicate the analysis:
 
 ## Contributors
 
-- [Your Name](https://github.com/Bhatti89)
+- [Wasil Nadeem](https://github.com/Bhatti89)
   
 
 ## License
